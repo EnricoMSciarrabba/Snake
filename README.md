@@ -49,3 +49,12 @@ File Assembly:
 ## Adattamento
 Configurazione per adattare il codice a vari telecomandi tramite l’inizializzazione di specifiche variabili.
 Uso del metodo SAMPLES per campionare segnali IR e identificare i pulsanti.
+
+
+## Immagini del gioco
+Avvio del gioco:
+![Alt text](Img/Start.png)
+In gioco:
+![Alt text](Img/Game)
+Fine del gioco:
+![Alt text](Img/End)
