@@ -55,6 +55,6 @@ Uso del metodo SAMPLES per campionare segnali IR e identificare i pulsanti.
 Avvio del gioco:
 ![Alt text](Img/Start.png)
 In gioco:
-![Alt text](Img/Game)
+![Alt text](Img/Game.png)
 Fine del gioco:
-![Alt text](Img/End)
+![Alt text](Img/End.png)
